@@ -4,6 +4,10 @@
 **Curso de Ciência da Computação**  
 **Algoritmos e Programação II (22817)**
 
+# Equipe
+
+**Irivam da Silva Junior**
+
 ## Versão de desenvolvimento
 
 - **Sistema:** Linux (termios para leitura de teclas sem Enter)
