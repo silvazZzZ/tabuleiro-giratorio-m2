@@ -10,7 +10,7 @@
 
 ## Versão de desenvolvimento
 
-- **Sistema:** Linux (termios para leitura de teclas sem Enter)
+- **Sistema:** Windows
 - **Compilador:** g++ (C++11 ou superior)
 - **Compilação:**
   ```bash
