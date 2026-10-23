@@ -12,7 +12,7 @@
 
 - **Sistema:** Linux (termios para leitura de teclas sem Enter)
 - **Compilador:** g++ (C++11 ou superior)
-- **Compilação:** 
+- **Compilação:**
   ```bash
   g++ -o labirinto labirinto.cpp -std=c++11
   ```
